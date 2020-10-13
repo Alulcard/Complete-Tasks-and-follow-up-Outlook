@@ -1,0 +1,6 @@
+When task is marked as complete
+Check task is marked as complete
+If task is marked as completed
+	Then find to-do task with same name
+	Check if to-do task is completed
+		If not then mark as complete
